@@ -63,8 +63,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: https://interactive-quiz-platform-tau.vercel.app/
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Summary of the Features:
+1. Dynamic Quiz System – Users can select and attempt different quizzes.
+2. Multiple Question Types – Supports both multiple-choice and integer-type questions.
+3. Instant Answer Feedback – Users receive immediate feedback (✅ Correct / ❌ Incorrect) after selecting an answer.
+4. Timer for Each Question – A 30-second countdown per question to increase engagement.
+5. Auto-Advance to Next Question – The quiz automatically moves to the next question after answering.
+6. Final Scoreboard – Displays the total score at the end of the quiz.
+7. Quiz History Using IndexedDB – Stores past quiz results locally so users can review their performance.
+8. View Quiz History – Users can check previous scores from the history page.
+9. Deployment Link: https://interactive-quiz-platform-tau.vercel.app/
+10. You can run the app using the command: npm start
+
